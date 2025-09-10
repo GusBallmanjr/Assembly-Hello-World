@@ -1,0 +1,1 @@
+This is my first project in Assembly. It has been heavily influenced from many different textbooks and sources, but it is not a copy. It uses generic micrsoft function names and commancds due to it being written using masm.
